@@ -1,0 +1,23 @@
+Binance reading and order requests api end points 
+
+
+THIS WAS MY FIRST PROGRAM IN PYTHON I LEARNED THE FOLLOWING : 
+
+
+-i learned automation 
+
+-def and invoke 
+
+-if condiotions 
+
+-several prints methods and loging 
+
+-how php works 
+
+-servers data bases 
+
+-data reading 
+
+-API REQUESTS 
+
+
